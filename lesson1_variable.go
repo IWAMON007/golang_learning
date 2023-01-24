@@ -6,7 +6,7 @@ func main(){ // Usually don't use 'main' in same folder more than two times but 
 	var num int
 	num = 1
 
-	var num1 = 100
+	var num1 = 200
 
 	num2 := 50
 	Num2 := 55
